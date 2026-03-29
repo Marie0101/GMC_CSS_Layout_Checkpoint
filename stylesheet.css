@@ -1,0 +1,129 @@
+nav{
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
+.nav_menu{
+    display: inline;
+}
+#About{
+    padding-top: 5%;
+}
+ul{
+    display: inline;
+}
+#healthcare{
+    text-align: center;
+}
+#healthcare_logo{
+    height: 50px;
+    width: 50px;
+}
+h1{
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: lighter;
+    letter-spacing: -0.3px;
+}
+.div1_text{
+    height: 40px;
+    width: 30%;
+    display: inline-block; 
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#div1_texts{
+    text-align: center;
+    color: #747474;
+}
+#div1_categories{
+    text-align: center;
+}
+#category_1,#category_2,#category_3{
+    display: inline-block;
+    width: 15%;
+    text-align: left;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#category_1{
+    background-color:#00b39b;
+}
+#category_2{
+    background-color: #3d83df;
+}
+#category_3{
+    background-color: #333;
+}
+.categories{
+    color: white;
+}
+.bottom_element{
+    display: inline-block;
+}
+#div1_bottom{
+    display: flex;
+    justify-content: space-between;
+
+    margin-left: 35%;
+    margin-right: 35%;
+}
+#we_are{
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: lighter;
+    letter-spacing: -0.3px;
+
+}
+#companies{
+    text-align: right;
+    margin-top: 10px;
+}
+.company{
+    width: 100px;
+    height: 40px;
+}
+#div2{
+    text-align: center;
+    background-color: #cedddb;
+}
+.div2_whole{
+    padding: 5%;
+    text-align: left;
+}
+.div2_numbers{
+    width: 10%;
+    padding: 10px;
+}
+#presentation{
+    text-align: center; 
+}
+#presentation_text{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.country{
+    display: inline-block;
+    padding: 3px;
+}
+button{
+    background-color: rgb(81, 116, 214);
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 5px;
+    border: none;
+}
+#div3_bottom{
+    text-align: center;
+}
+#logocropped{
+    width: 30%;
+}
+h6{
+    text-align: center;
+    font-weight: lighter;
+}
